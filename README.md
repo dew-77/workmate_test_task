@@ -1,4 +1,4 @@
-# Тестовое задание компании Workmate
+# Реализация тестового задания компании Workmate
 ## Содержание
 
 - [Доступ](#доступ)
@@ -24,13 +24,13 @@ DEBUG="True"
 
 DB_NAME=workmate_db
 DB_USER=postgres
-DB_PASSWORD=somepassword
+DB_PASSWORD=12345
 DB_HOST=db
 DB_PORT=5432
 
 POSTGRES_DB=workmate_db
 POSTGRES_USER=postgres
-POSTGRES_PASSWORD=DB_PASSWORD=somepassword
+POSTGRES_PASSWORD=12345
 ```
 *рекомендую оставить параметр DEBUG в значении True, чтобы посмотреть документацию Swagger*
 
